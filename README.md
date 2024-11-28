@@ -1,9 +1,10 @@
 # Projects
 # Learning Projects
-# NLP
-1.AmazonkidleSentimentAnalysis/n
-2.SpamHamClassification/n
+# NLP Projects 
+1.AmazonkidleSentimentAnalysis <br>
+2.SpamHamClassification <br>
 3.ZomatoReviewAnalysis
 
+The detailed description and files for each project are organized into separate folders. Please check each folder individually, as each contains its own README file.
 
 License: This project is licensed under the MIT License.
